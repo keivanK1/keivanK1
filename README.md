@@ -25,8 +25,4 @@ I'm Keivan Kiyanfar and working as software developer, along the way I maintain 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 
 
-You can find me on [Stackoverflow]([1]) and [LinkedIn]([2]).
-
-
-[1]: https://stackoverflow.com/users/4623372/keivan
-[2]: https://www.linkedin.com/in/keivankiyanfar/
+You can find me on [Stackoverflow](https://stackoverflow.com/users/4623372/keivan) and [LinkedIn](https://www.linkedin.com/in/keivankiyanfar/).
